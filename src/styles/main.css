@@ -1,6 +1,6 @@
 @font-face {
     font-family: Adam;
-    src: url('build/fonts/ADAM.CG PRO.otf');
+    src: url('../fonts/ADAM.CG PRO.otf');
 }
 
 html, body {
